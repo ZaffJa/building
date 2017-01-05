@@ -125,7 +125,7 @@
                 <li><a href="{{ action('Tenant\TenantController@complaint') }}"><i class="fa fa-book"></i> <span>Complaint</span></a>
                 </li><li><a href="{{ action('Tenant\TenantController@bill') }}"><i class="fa fa-book"></i> <span>Bill</span></a>
                 </li><li><a href="{{ action('Tenant\TenantController@profile') }}"><i class="fa fa-book"></i> <span>Profile</span></a>
-                </li><li><a href="/logout"><i class="fa fa-book"></i> <span>Logout</span></a>
+                </li><li><a href="{{ url('logout') }}"><i class="fa fa-book"></i> <span>Logout</span></a>
                 </li>
             </ul>
         </section>

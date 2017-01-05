@@ -24,7 +24,7 @@
     <script src="/js/respond.min.js"></script>
     <![endif]-->
 </head>
-<body class="hold-transition login-page">
+<body class="hold-transition login-page" style="background-color: #3c8dbc">
 <div class="login-box">
     <div class="login-logo">
         <a href="#"><b>Building</b>Management</a>

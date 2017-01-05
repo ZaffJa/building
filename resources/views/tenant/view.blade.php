@@ -47,7 +47,8 @@
 
                 </div>
                 <div class="modal-footer">
-                    <a href="#" download class="btn btn-info">Download Attachment</a>
+                    <span style="padding-right: 20px;font-weight: bolder;">Download Attachment</span>
+                    <a href="#" download><i class="fa fa-download fa-2x"></i></a>
                 </div>
             </div>
         </div>
